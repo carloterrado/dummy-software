@@ -6,3 +6,4 @@
 3. Created branch feature-login and added index.html (Carlo) 
 4. Created branch feature-shop and added Shop.html (Justine)
 5. Created branch feature-cart and added Cart.html (Mj)
+6. Created branch Product (des)
