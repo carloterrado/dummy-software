@@ -10,3 +10,4 @@
 7. Created branch feature-about and added about.html (Jen)
 8. Created branch footer and added footer.html (Cha)
 9. Created branch home and added home.html (Whis)
+10. Created branch feature-notifications and added notifications.html (Tere)
